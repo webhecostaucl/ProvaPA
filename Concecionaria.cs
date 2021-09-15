@@ -11,6 +11,9 @@ class Concecionaria:Veiculo {
   
   List <Veiculo> carroDisponiveis = new List<Veiculo>();
 
+  public Concecionaria (){
+
+  }
 
   //Construtor Completo
   public Concecionaria(string loc,string ger,string a,string anoF,int carD){
